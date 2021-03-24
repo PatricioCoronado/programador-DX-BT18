@@ -6,4 +6,6 @@
 ### Desarrollado en [Java](https://www.java.com/es/) con [Eclipase](https://www.eclipse.org/)
 ###
 ![Alt text](https://github.com/PatricioCoronado/programador-DX-BT18/blob/master/DX-BT18.jpg "módulo")
+###
+### para realizar la programación del módulo, el pin "EN" debe concetarse al pin "GND" DX-BT18.
 
