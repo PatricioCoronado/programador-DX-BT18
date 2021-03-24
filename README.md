@@ -7,5 +7,6 @@
 ###
 ![Alt text](https://github.com/PatricioCoronado/programador-DX-BT18/blob/master/DX-BT18.jpg "módulo")
 ###
-### para realizar la programación del módulo, el pin "EN" debe concetarse al pin "GND" DX-BT18.
+### para realizar la programación del módulo, el pin "EN" debe conectarse al pin "GND"
+
 
