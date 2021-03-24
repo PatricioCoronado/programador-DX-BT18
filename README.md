@@ -5,5 +5,5 @@
 ### aplicación para programar los módulos bluetooth DX-BT18.
 ### Desarrollado en [Java](https://www.java.com/es/) con [Eclipase](https://www.eclipse.org/)
 ###
-![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/Base-SPM-20191373/blob/master/DX-BT18.jpg "módulo")
+![Alt text](https://github.com/PatricioCoronado/programador-DX-BT18/blob/master/DX-BT18.jpg "módulo")
 
